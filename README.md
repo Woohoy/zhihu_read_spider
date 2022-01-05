@@ -2,12 +2,13 @@
 注：只支持爬取严选专栏小说，
 ## 环境
 - python3.7
-PyExecJS库
-requests库
-lxml库
+- PyExecJS库
+- requests库
+- lxml库
+
 
 - Node.js
-jsdom
+- jsdom
 > 安装好后jsdom模块默认目录应是 `C:\Users\用户名\AppData\Roaming\npm\node_modules`
 
 ## 前期准备
@@ -23,7 +24,7 @@ jsdom
 ### 1、`python main_2.py`
 
 
-###2、`python Book.py`
+### 2、`python Book.py`
 
 
 1、执行后程序爬取我的书架所有小说，保存到`小说`文件夹下，已存在以小说名命名的文件夹则跳过
